@@ -17,9 +17,22 @@ I'm a passionate Frontend Developer with expertise in Javascript & React JS. I l
 
 Here are some projects I'm proud of:
 
-1. YouTube Web App (https://mytube29.netlify.app/): React , Redux Toolkit, Tailwind CSS, Youtube API, Google API
-2. Cafe Azure (https://cafe-azure29.netlify.app/): React , Redux Toolkit, Tailwind CSS, Geolocation API, Babel JS
-3. Open Cam (https://opencam-29.netlify.app/) - HTML , CSS , Javascript, MediaStream API, Indexed DB
+## Projects
+
+Here are some projects I'm proud of:
+
+1. **[YouTube Web App](https://mytube29.netlify.app/)**
+   ![YouTube Web App](https://photos.app.goo.gl/YFmD1AYD5EjdmLFF7)
+   - Developed using React, Redux Toolkit, Tailwind CSS, YouTube API, and Google API.
+
+2. **[Cafe Azure](https://cafe-azure29.netlify.app/)**
+   ![Cafe Azure](https://photos.app.goo.gl/99WDvqZan5L18qdw5)
+   - Built with React, Redux Toolkit, Tailwind CSS, Geolocation API, and Babel JS.
+
+3. **[Open Cam](https://opencam-29.netlify.app/)**
+   ![Open Cam](https://photos.app.goo.gl/4fvgozeHTvp7HLn79)
+   - Web camera application using HTML, CSS, JavaScript, MediaStream API, and Indexed DB.
+
 
 ## GitHub Stats
 
