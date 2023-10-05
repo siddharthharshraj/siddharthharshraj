@@ -13,9 +13,6 @@ I'm a passionate Frontend Developer with expertise in Javascript & React JS. I l
 - 🚀 Tools: VS code, Github, Chrome Dev Tools, AWS, S3, CloudFront 
 - 🌐 Web Development: React JS, Redux Toolkit, Tailwind CSS, CSS , HTML, Browser APIs, Parcel, BabelJS, Code Splitting, Lazy loading 
 
-## Projects
-
-Here are some projects I'm proud of:
 
 ## Projects
 
