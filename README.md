@@ -23,7 +23,7 @@ Here are some projects I'm proud of:
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=siddharthharshraj&show_icons=true&theme=dark
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhartharshraj&show_icons=true&bg_color=00000000)
 
 ## Connect with Me
 
