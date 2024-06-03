@@ -1,50 +1,48 @@
-# Hello, I'm Siddharth! 👋
+# Web3 Learning Journey
 
-## About Me
+Welcome to my Web3 learning journey! This repository documents my progress as I dive deep into the world of blockchain development, focusing on Solidity and Solana.
 
-I'm a passionate Frontend Developer with expertise in Javascript & React JS. I love listening to Tech Podcasts, and I'm always eager to learn and explore new technologies.
+## Table of Contents
 
-- 🌐 https://siddharthharshraj.engineer/
-- 📫 How to reach me: shr6219@gmail.com
+- [Introduction](#introduction)
+- [Learning Plan](#learning-plan)
+- [Daily Updates](#daily-updates)
+- [Resources](#resources)
+- [Connect with Me](#connect-with-me)
 
-## Skills
+## Introduction
 
-- 💻 Programming Languages: C++, Javascript, Python
-- 🚀 Tools: VS code, Github, Chrome Dev Tools, AWS, S3, CloudFront 
-- 🌐 Web Development: React JS, Redux Toolkit, Tailwind CSS, CSS , HTML, Browser APIs, Parcel, BabelJS, Code Splitting, Lazy loading 
+Hello! I'm Siddharth, a passionate learner exploring the exciting domain of Web3 technologies. This repository serves as my learning diary, where I share daily updates, projects, and resources related to Solidity and Solana.
 
+## Learning Plan
 
-## Projects
+Here is an outline of my learning plan:
 
-Here are some projects I'm proud of:
+1. **Solidity**: Understanding the basics, smart contract development, and advanced concepts.
+2. **Solana**: Learning about Solana's architecture, developing on Solana, and advanced features.
 
-1. **[YouTube Web App](https://mytube29.netlify.app/)**
-   - Developed using React, Redux Toolkit, Tailwind CSS, YouTube API, and Google API.
+## Daily Updates
 
-2. **[Cafe Azure](https://cafe-azure29.netlify.app/)**
-   - Built with React, Redux Toolkit, Tailwind CSS, Geolocation API, and Babel JS.
+I will be sharing my daily learning updates here. Stay tuned!
 
-3. **[Open Cam](https://opencam-29.netlify.app/)**
-   - Web camera application using HTML, CSS, JavaScript, MediaStream API, and Indexed DB.
+## Resources
 
+Here are some resources I'm using to learn:
 
-## GitHub Stats
+- **Solidity**:
+  - [Solidity Documentation](https://docs.soliditylang.org/)
+  - [Alchemy Learn](https://university.alchemy.com/overview/solidity)
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthharshraj&show_icons=true&bg_color=00000000)
+- **Solana**:
+  - [Solana Documentation](https://docs.solana.com/)
+  - [Solana GitHub](https://github.com/solana-labs/solana)
 
 ## Connect with Me
 
-- LinkedIn - https://www.linkedin.com/in/siddharth2909/
-- X - https://twitter.com/siddharth_hr29
-- Portfolio - https://siddharthharshraj.engineer/
+Follow my journey on social media and feel free to reach out!
 
-## Latest Blog Posts
+- [X ](https://x.com/sid__web3)
+- [LinkedIn](https://www.linkedin.com/in/siddharthweb3/)
+- [GitHub](https://github.com/siddharthharshraj)
 
-- Understanding Parameters vs Arguments Through a Toy Robot Analogy - https://medium.com/@shr6219/understanding-parameters-vs-arguments-through-a-toy-robot-analogy-13cc8204a0f9
-- Demystifying the “this” Keyword in JavaScript: A Guide for All Skill Levels - https://medium.com/@shr6219/demystifying-the-this-keyword-in-javascript-a-guide-for-all-skill-levels-ebe16ac047c1
-
-## Fun Fact
-
-Here's a fun fact about me: I am not Funny 🤣
-
-Thanks for visiting my profile! 😊
+Thank you for following my journey. Let's build the future of Web3 together!
