@@ -24,6 +24,7 @@ Here is an outline of my learning plan:
 ## Daily Updates
 
 I will be sharing my daily learning updates here. Stay tuned!
+[More Updates](daily-updates.md)
 
 ## Resources
 
