@@ -1,21 +1,19 @@
-# Web3 Learning Journey
+## Hi there, I'm Siddharth Harsh Raj 👋
 
-Welcome to my Web3 learning journey! This repository documents my progress as I dive deep into the world of blockchain development, focusing on Solidity and Solana.
+I'm a passionate developer with a keen interest in blockchain technology, particularly Solana and Ethereum. I have been diving deep into these ecosystems, learning and building projects that leverage the power of decentralized applications. 
 
-## Introduction
+### 🚀 What I'm Learning:
+- **Solana**: Exploring the high-performance blockchain to build scalable applications.
+- **Ethereum**: Delving into smart contract development and DeFi with Solidity.
 
-Hello! I'm Siddharth, a passionate learner exploring the exciting domain of Web3 technologies. This repository serves as my learning diary, where I share daily updates, projects, and resources related to Solidity and Solana.
+### 💻 My Tech Stack:
+- **Blockchain**: Solana, Ethereum, Web3.js, Ether.js, Solidity, Phantom, Metamask
+- **Frontend**: React, Next.js, Redux, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB, Rust
+- **Dev Tools**: Git, VS Code, Vercel, Netlify
 
-- **Solana**:
-  - [Solana Documentation](https://docs.solana.com/)
-  - [Solana GitHub](https://github.com/solana-labs/solana)
+Feel free to explore my projects and contributions. I'm constantly learning and experimenting with new technologies to push the boundaries of what's possible in the blockchain space.
 
-## Connect with Me
-
-Follow my journey on social media and feel free to reach out!
-
-- [X ](https://x.com/sid__web3)
-- [LinkedIn](https://www.linkedin.com/in/siddharthweb3/)
-- [GitHub](https://github.com/siddharthharshraj)
-
-Thank you for following my journey. Let's build the future of Web3 together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/siddharthweb3)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/siddharthharshraj)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/sid__web3)
