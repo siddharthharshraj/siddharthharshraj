@@ -9,8 +9,8 @@ I'm a passionate developer with a keen interest in software development and bloc
 ### 💻 My Tech Stack:
 - **Blockchain**: Solana, Ethereum, Web3.js, Ether.js, Solidity, Phantom, Metamask
 - **Frontend**: React, Next.js, Redux, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB, Rust, Postgres, Prisma ORM
-- **Dev Tools**: Git, VS Code, Vercel, Netlify, AWS, Cloudfare, Docker
+- **Backend**: Node.js, Express.js, MongoDB, Rust, Postgres, Prisma ORM, Neon DB
+- **Dev Tools**: Git, VS Code, Vercel, Netlify, AWS, Cloudfare, Docker, Kubernetes
 
 Feel free to explore my projects and contributions. I'm constantly learning and experimenting with new technologies to push the boundaries of what's possible in the blockchain space.
 
