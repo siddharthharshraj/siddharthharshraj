@@ -1,19 +1,20 @@
-## Hi there, I'm Siddharth Harsh Raj 👋
+# Hi, I'm Siddharth 👋
 
-I'm a passionate developer with a keen interest in software development and blockchain technology, particularly Solana, Ethereum & MERN. I have been diving deep into these ecosystems, learning and building projects that leverage the power of decentralized applications. 
+I'm a software developer passionate about building **scalable and robust applications**. I'm currently diving deep into the exciting world of **Web3**, exploring its potential and contributing to open-source projects within this space.
 
-### 🚀 What I'm Learning Currently:
-- **Solana**: Exploring the high-performance blockchain to build scalable applications.
-- **Ethereum**: Delving into smart contract development and DeFi with Solidity.
+**My Interests:**
 
-### 💻 My Tech Stack:
-- **Blockchain**: Solana, Ethereum, Web3.js, Ether.js, Solidity, Phantom, Metamask
-- **Frontend**: React, Next.js, Redux, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB, Rust, Postgres, Prisma ORM, Neon DB
-- **Dev Tools**: Git, VS Code, Vercel, Netlify, AWS, Cloudfare, Docker, Kubernetes
+* **Web3 Development:** Smart contracts, decentralized applications (dApps), blockchain technologies (Ethereum, Solana, etc.)
+* **Full-Stack Development:** Frontend (React, JavaScript), Backend (Node.js, Python, Go), Databases (SQL, NoSQL)
+* **Open Source Contributions:** Collaborating on and contributing to open-source projects to learn and give back to the community.
+* **Scalable Architecture:** Designing and implementing systems that can handle growing user bases and data volumes.
+* **Tech Podcasts:** Keeping up-to-date with the latest trends and insights through engaging tech podcasts.
 
-Feel free to explore my projects and contributions. I'm constantly learning and experimenting with new technologies to push the boundaries of what's possible in the blockchain space.
+**Let's Connect:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/siddharthweb3)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/siddharthharshraj)
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/sid__web3)
+* **LinkedIn:** https://www.linkedin.com/in/siddharthharshraj
+* **Email:** shr6219@gmail.com
+
+**I'm always eager to learn and grow, and I'm open to new opportunities and collaborations.**
+
+**Feel free to reach out!**
