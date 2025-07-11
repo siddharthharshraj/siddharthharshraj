@@ -12,7 +12,6 @@ I'm a software developer passionate about building **scalable and robust applica
 
 **Let's Connect:**
 
-* **LinkedIn:** https://www.linkedin.com/in/siddharthharshraj
 * **Email:** shr6219@gmail.com
 
 **I'm always eager to learn and grow, and I'm open to new opportunities and collaborations.**
