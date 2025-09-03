@@ -1,19 +1,26 @@
 # Hi, I'm Siddharth 👋
 
-I'm a software developer passionate about building **scalable and robust applications**. I'm currently diving deep into the exciting world of **Web3**, exploring its potential and contributing to open-source projects within this space.
+I'm a **software developer** passionate about building **scalable, robust, and future-ready applications**. Alongside full-stack engineering, I’m diving deep into the exciting worlds of **Web3** and **AI**, exploring their potential and actively contributing to open-source projects.  
 
-**My Interests:**
+---
 
-* **Web3 Development:** Smart contracts, decentralized applications (dApps), blockchain technologies (Ethereum, Solana, etc.)
-* **Full-Stack Development:** Frontend (React, JavaScript), Backend (Node.js, Python, Go), Databases (SQL, NoSQL)
-* **Open Source Contributions:** Collaborating on and contributing to open-source projects to learn and give back to the community.
-* **Scalable Architecture:** Designing and implementing systems that can handle growing user bases and data volumes.
-* **Tech Podcasts:** Keeping up-to-date with the latest trends and insights through engaging tech podcasts.
+## 🔥 My Interests
 
-**Let's Connect:**
+- **Web3 Development**: Smart contracts, decentralized applications (dApps), blockchain technologies (Ethereum, Solana, etc.)  
+- **AI & Agents**: Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol) transfers, and AI copilots for automation  
+- **Full-Stack Development**: Frontend (React, JavaScript), Backend (Node.js, Python, Go), Databases (SQL, NoSQL, PostgreSQL)  
+- **Scalable Architecture**: Designing and reading about systems that can handle millions of users and evolving data volumes  
+- **Open Source Contributions**: Collaborating on projects to learn, innovate, and give back to the community  
+- **Tech Podcasts**: Staying updated with the latest trends and industry insights through engaging podcasts  
 
-* **Email:** shr6219@gmail.com
+---
 
-**I'm always eager to learn and grow, and I'm open to new opportunities and collaborations.**
+## 📬 Let's Connect
 
-**Feel free to reach out!**
+- **Email:** [shr6219@gmail.com](mailto:shr6219@gmail.com)  
+
+---
+
+💡 I’m always eager to **learn, experiment, and grow**—open to new opportunities, collaborations, and challenging projects at the intersection of **Web3, AI, and scalable systems**.  
+
+**Feel free to reach out!** 🚀
