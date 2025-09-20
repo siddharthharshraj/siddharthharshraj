@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Siddharth Harsh Raj  
 
-🚀 **Full-Stack Developer | DevOps Enthusiast | Builder**  
+🚀 **Full-Stack Developer | Absolute Learner**  
 
 I build **scalable fintech, media, and open-source applications** with a focus on **security, performance, and real-world impact**.  
 For me, a **programming language is not a barrier — it’s just a tool** to create useful software.  
@@ -34,6 +34,8 @@ For me, a **programming language is not a barrier — it’s just a tool** to cr
 🌐 [siddharth-dev.tech](https://siddharth-dev.tech) |  
 💼 [LinkedIn](https://linkedin.com/in/siddharthharshraj) |  
 💻 [GitHub](https://github.com/siddharthharshraj)  
+
+Connect me on mail : contact@siddharth-dev.tech
 
 ---
 
